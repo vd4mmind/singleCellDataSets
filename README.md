@@ -1,4 +1,4 @@
-## singleCell DataSets
+## SingleCell DataSets
 # The following datasets can be found in the below google drive:
 ```
 1. A Mongia et al 2019
